@@ -1,0 +1,13 @@
+[WARNING] 2020-09-08 01:43:21,746 django.request Bad Request: /tags/
+[WARNING] 2020-09-08 01:43:21,761 django.request Not Found: /tags/72b283e7-1a42-456e-be00-ab5437af/
+[WARNING] 2020-09-08 01:43:21,769 django.request Not Found: /tags/bd0bd626-eca7-43d3-b5ab-02d4119/
+[WARNING] 2020-09-08 01:43:21,774 django.request Bad Request: /tags/bd0bd626-eca7-43d3-b5ab-02d4119c63a4/
+[WARNING] 2020-09-08 01:43:21,789 django.request Bad Request: /taskList/
+[WARNING] 2020-09-08 01:43:21,801 django.request Not Found: /taskList/2718e8be-61c8-465e-ac65-cfe7416f/
+[WARNING] 2020-09-08 01:43:21,810 django.request Not Found: /taskList/c60b4c69-b26a-4f66-aa59-dfdb925a7/
+[WARNING] 2020-09-08 01:43:21,815 django.request Bad Request: /taskList/2718e8be-61c8-465e-ac65-cfe7416f24f7/
+[WARNING] 2020-09-08 01:43:21,840 django.request Not Found: /tasks/72b283e7-1a42-456e-be00-ab5437af/
+[WARNING] 2020-09-08 01:43:21,878 django.request Not Found: /tasks/bd0bd626-eca7-43d3-b5ab-/
+[WARNING] 2020-09-08 01:43:21,884 django.request Bad Request: /tasks/107defa7-14f0-4b20-9a75-4c437be9c375/
+[WARNING] 2020-09-08 01:43:21,905 django.request Bad Request: /tasks/107defa7-14f0-4b20-9a75-4c437be9c375/
+[WARNING] 2020-09-08 01:43:21,933 django.request Bad Request: /tasks/
