@@ -1,4 +1,9 @@
-### App developed in Python 3 using SQLite3- Task Manager 
+### API Task Manager 
+
+**Stack**
+- Python3
+- Django e Django Rest Framework
+- SQLite3
 
 **Step by Step**
 
