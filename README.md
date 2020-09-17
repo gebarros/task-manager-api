@@ -76,7 +76,6 @@ $ .tables
 **Observations**
 
 - The project was developed using SQLite3, but a pre configuration is available to use PostgresSQL
-- Database file (db.sqlite3) will be kept to be analyzed
 
 **For more information**
 
