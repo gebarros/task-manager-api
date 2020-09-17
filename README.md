@@ -5,11 +5,7 @@
 - Django e Django Rest Framework
 - SQLite3
 
-**Step by Step**
-
-- Clone the repo
-
-*Running local*
+**Running local**
 
 - Create a virtual env: $ python3 -m venv venv
 -  Activate the virtual env: $ source activate venv/bin/activate
@@ -17,7 +13,7 @@
 - Run app: python manage.py runserver
 - App running on: http://127.0.0.1:8000/
 
-*Running in docker-compose*
+**Running in docker-compose**
 
 - Install docker
 - Build the image: $ docker-compose build
@@ -25,7 +21,7 @@
 - App running on: http://127.0.0.1:8000/
 - Stop: $ docker-compose down
 
-*Running tests*
+**Running Tests**
 
 $ coverage run manage.py test
 
@@ -84,4 +80,4 @@ $ .tables
 
 **For more information**
 
-gebarrosbio@gmail.com
+Contact: gebarrosbio@gmail.com
